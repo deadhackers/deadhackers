@@ -22,10 +22,9 @@ print("#"+ long * '-' + "#")
 
 while(True):
 	print("""
-	deadhackers |
-	1- Install hping3
-       
-	2- Launch DoS attack whit hping3
+                         	--------------------------------------------------------------------------
+	1- Install       
+       	2- DoS attack
 	3- Exit
 	\033[1;m
 	""")
